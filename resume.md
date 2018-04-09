@@ -58,3 +58,8 @@ Godin, Bryansk
 *	Statistics aggregation.
 
 **Technologies :** PHP, Yii, MySQL, MongoDB, Git, JavaScript, CSS (Bootstrap), HTML, XML, JSON.
+
+### Education
+2009-2014 <br/>
+Bryansk State Technical University <br/>
+(MA-equivalent) Specialist degree in Computer Science
