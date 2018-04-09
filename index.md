@@ -1,11 +1,11 @@
 # Resume
 Rita Sukhova <br/>
-E-mail: nadobnomars@gmail.com <br/>
+E-mail: [nadobnomars@gmail.com](nadobnomars@gmail.com) <br/>
 Telegram: [@wanna_see_skrip](https://telegram.me/wanna_see_skrip) <br/>
 
 ### Summary
 Objective-C software engineer with backend experience. Self-motivated for constant skill improvement. <br/>
-I’m fond of solving algorithmic tasks. https://www.hackerrank.com/GryffindorsMargi
+I’m fond of solving algorithmic tasks. [https://www.hackerrank.com/GryffindorsMargi](https://www.hackerrank.com/GryffindorsMargi)
 
 ### Skills
 * Developing iOS Application using Objective-c, iOS SDK(Foundation, UIKit, CoreAnimation), Xcode, Zeplin
